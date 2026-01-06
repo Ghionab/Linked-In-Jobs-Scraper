@@ -1,21 +1,4 @@
-# LinkedIn Job Scraper Dependencies
-
-# GUI Framework
 PyQt5>=5.15.0
-
-# Web Scraping
 selenium>=4.15.0
 beautifulsoup4>=4.12.0
-requests>=2.31.0
-
-# Data Processing
-pandas>=2.1.0
-
-# WebDriver Management
 webdriver-manager>=4.0.0
-
-# HTML Parsing Support
-lxml>=4.9.0
-
-# Additional Utilities
-python-dateutil>=2.8.0
